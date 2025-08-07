@@ -12,8 +12,7 @@ Aspiring software engineer with a strong foundation in full-stack development, m
   Expected Graduation: May 2026
 
 - **Contact**  
-  📧 Email: gmadye13@gmail.com  
-  📞 Phone: +91-9987387639  
+  📧 Email: gmadye13@gmail.com
   🔗 [LinkedIn](https://www.linkedin.com/in/gouresh-madye)  
   💻 [GitHub](https://github.com/MADEYE42)
 
