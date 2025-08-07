@@ -55,7 +55,7 @@ Real-time face detection from over 100 video streams.
 - Used MTCNN and GAN-based 3D face reconstruction  
 - Web interface for live demo and testing
 
-### [Disaster Management System](https://github.com/MADEYE42/disaster-management) — Next.js, Node.js  
+### [Disaster Management System](https://github.com/MADEYE42/disaster-management) — Next.js, Node.js, Generative AI  
 AI-powered emergency support with Gemini 1.5 API and ML models.  
 - Crisis tracking and chatbot integration  
 - Role-based dashboards with polling and safety protocols
