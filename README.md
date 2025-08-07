@@ -1,55 +1,78 @@
-# Hi, I'm Gouresh Madye 👋
+# Gouresh Madye
 
-I'm a passionate engineering student at Vivekanand Education Society's Institute of Technology (VESIT), Mumbai, with a strong web development, machine learning, and full-stack programming background. I enjoy turning innovative ideas into real-world solutions, whether it’s through building responsive websites or developing cutting-edge ML models.
+Aspiring software engineer with a strong foundation in full-stack development, machine learning, and real-time systems. Proven leadership in technical clubs and consistent performance in national-level hackathons. Passionate about building scalable solutions for social impact and emerging technology domains.
+
+---
+
+## 📍 About Me
+
+- **Bachelor of Engineering**  
+  Vivekanand Education Society's Institute of Technology (VESIT), Mumbai  
+  Aggregate CGPA: 8.6 / 10 (Up to Semester 6)  
+  Expected Graduation: May 2026
+
+- **Contact**  
+  📧 Email: gmadye13@gmail.com  
+  📞 Phone: +91-9987387639  
+  🔗 [LinkedIn](https://www.linkedin.com/in/gouresh-madye)  
+  💻 [GitHub](https://github.com/MADEYE42)
+
+---
 
 ## 🔧 Technical Skills
 
-- **Programming Languages:** Python, Java, C
-- **Web Development:** HTML, CSS, JavaScript, TypeScript, RESTful APIs
-- **Frameworks & Libraries:** React.js, Next.js
-- **Tools:** Git, GitHub, Postman
-- **Databases:** MongoDB, MySQL
-- **Machine Learning:** Data Preprocessing, Feature Engineering, Model Optimization
+- **Languages**: Python, C, C++, Java, JavaScript, TypeScript, HTML/CSS, SQL  
+- **Tools & Platforms**: Git, GitHub, AWS, Docker, MongoDB  
+- **Frameworks/Libraries**: React.js, Node.js, Express, Flask, TensorFlow, Keras, Scikit-learn, OpenCV, MySQL  
+- **Coursework**: Data Structures and Algorithms, Operating Systems, Computer Networks, Software Engineering, DBMS
 
-## 🎓 Education
+---
 
-**Bachelor of Engineering**  
-*Vivekanand Education Society's Institute of Technology (VESIT)*  
-2022 - Present | Mumbai, India  
-- **Aggregate CGPA:** 8.83/10 (up to SEM 5)  
-- **Relevant Coursework:** Data Structures and Algorithms, Python Programming, Discrete Structures and Graph Theory, DBMS, OOPS
+## 🧠 Experience
 
-## 🏆 Achievements & Leadership
+### Software Development Intern — Essel Fabricators Pvt. Ltd.  
+*Nov 2024 – Dec 2024 · Thane, India*  
+- Integrated OCR to digitize handwritten quality check notes  
+- Built real-time searchable dashboards using Next.js and TypeScript  
+- Improved inventory tracking reliability
 
-- **Winner, Ethos Hackathon 2024 (IIT Guwahati):**  
-  Developed a dynamic website by integrating three Python backends with real-time video capture and ML-powered outputs.
-- **Executive Secretary, ISTE VESIT (2024 - Present):**  
-  Coordinated a team of 52 in organizing hackathons and workshops, attracting over 300 participants and honing professional communication skills.
+### Project Intern — Larsen & Toubro Ltd.  
+*June 2025 – July 2025 · Powai, India*  
+- Optimized tag detection accuracy from tabular reports  
+- Automated extraction of discipline-wise tags and hold reasons using Python
+
+---
 
 ## 🚀 Projects
 
-### 1. Facial Police
-- **Overview:**  
-  Leveraged OpenCV and MTCNN to detect and extract faces from 100+ video feeds in real time. Enhanced recognition accuracy using GAN-based models and implemented 3D face reconstruction to achieve 90% precision.
-- **Tech Stack:** React.js, Flask, OpenCV, MTCNN, GANs
-- **GitHub:** [facial-police](https://github.com/MADEYE42/facial-police)
+### [Crisis Call](https://github.com/MADEYE42/multi-role-auth-app) — React Native, Firebase  
+Multi-role emergency app for users, hospitals, and mechanics.  
+- Real-time sync and location tracking  
+- Dashboards using React Navigation and expo-location
 
-### 2. Heart Disease Detection
-- **Overview:**  
-  Developed a health prediction model analyzing UV fetus images using CNN, FCNN, and KNN. Improved model accuracy to 82% through extensive data preprocessing and feature engineering.
-- **Tech Stack:** HTML, CSS, JavaScript, Flask, Machine Learning Models
-- **GitHub:** [Heart Disease Detection](https://github.com/MADEYE42/project)  
-- **Live Demo:** *(Deployed link available on the repository)*
+### [Facial Police](https://github.com/Ha4sh-447/ethos-hackathon) — OpenCV, GAN, Flask  
+Real-time face detection from over 100 video streams.  
+- Used MTCNN and GAN-based 3D face reconstruction  
+- Web interface for live demo and testing
 
-### 3. Bcare
-- **Overview:**  
-  A comprehensive project aimed at enhancing healthcare accessibility through an interactive platform.
-- **GitHub:** [Bcare](https://github.com/MADEYE42/Bcare)  
-- **Live Demo:** [Bcare Live](https://madeye42.github.io/Bcare/)
+### [Disaster Management System](https://github.com/MADEYE42/disaster-management) — Next.js, Node.js  
+AI-powered emergency support with Gemini 1.5 API and ML models.  
+- Crisis tracking and chatbot integration  
+- Role-based dashboards with polling and safety protocols
 
-## 📫 Connect with Me
+---
 
-- **Email:** [gmadye13@gmail.com](mailto:gmadye13@gmail.com)
-- **GitHub:** [GitHub](https://github.com/MADEYE42)
-- **LinkedIn:** [LinkedIn](http://www.linkedin.com/in/gouresh-madye-a68aa6235)
-- **Portfolio:** [Portfolio](https://portfolio-website-gouresh-madye.vercel.app/)
+## 🏆 Achievements
+
+- **Winner**, Ethos Hackathon 2024 (IIT Guwahati)  
+- **Top 50**, IIIT Sricity International Healthcare Hackathon (1000+ participants)
+
+---
+
+## 📌 Leadership
+
+- **Chief Executive Officer**, ISTE VESIT (June 2025 – Present)  
+- **Executive Secretary**, ISTE VESIT (June 2024 – May 2025)
+
+---
+
