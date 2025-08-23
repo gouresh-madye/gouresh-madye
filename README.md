@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gouresh--madye-blue?logo=linkedin)](https://www.linkedin.com/in/gouresh-madye)  
 [![GitHub](https://img.shields.io/badge/GitHub-MADEYE42-black?logo=github)](https://github.com/MADEYE42)  
-📧 gmadye13@gmail.com | 📱 +91-9987387639  
+📧 gmadye13@gmail.com 
 
 ---
 
