@@ -1,77 +1,85 @@
-# Gouresh Madye
+# Hi, I'm Gouresh Madye 👋  
 
-Aspiring software engineer with a strong foundation in full-stack development, machine learning, and real-time systems. Proven leadership in technical clubs and consistent performance in national-level hackathons. Passionate about building scalable solutions for social impact and emerging technology domains.
+🚀 Aspiring Software Engineer | AI & Full-Stack Developer | Hackathon Enthusiast  
 
----
-
-## 📍 About Me
-
-- **Bachelor of Engineering**  
-  Vivekanand Education Society's Institute of Technology (VESIT), Mumbai  
-  Aggregate CGPA: 8.6 / 10 (Up to Semester 6)  
-  Expected Graduation: May 2026
-
-- **Contact**  
-  📧 Email: gmadye13@gmail.com
-  🔗 [LinkedIn](https://www.linkedin.com/in/gouresh-madye)  
-  💻 [GitHub](https://github.com/MADEYE42)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gouresh--madye-blue?logo=linkedin)](https://www.linkedin.com/in/gouresh-madye)  
+[![GitHub](https://img.shields.io/badge/GitHub-MADEYE42-black?logo=github)](https://github.com/MADEYE42)  
+📧 gmadye13@gmail.com | 📱 +91-9987387639  
 
 ---
 
-## 🔧 Technical Skills
-
-- **Languages**: Python, C, C++, Java, JavaScript, TypeScript, HTML/CSS, SQL  
-- **Tools & Platforms**: Git, GitHub, AWS, Docker, MongoDB  
-- **Frameworks/Libraries**: React.js, Node.js, Express, Flask, TensorFlow, Keras, Scikit-learn, OpenCV, MySQL  
-- **Coursework**: Data Structures and Algorithms, Operating Systems, Computer Networks, Software Engineering, DBMS
-
----
-
-## 🧠 Experience
-
-### Software Development Intern — Essel Fabricators Pvt. Ltd.  
-*Nov 2024 – Dec 2024 · Thane, India*  
-- Integrated OCR to digitize handwritten quality check notes  
-- Built real-time searchable dashboards using Next.js and TypeScript  
-- Improved inventory tracking reliability
-
-### Project Intern — Larsen & Toubro Ltd.  
-*June 2025 – July 2025 · Powai, India*  
-- Optimized tag detection accuracy from tabular reports  
-- Automated extraction of discipline-wise tags and hold reasons using Python
+## 🎓 Education  
+**Bachelor of Engineering (Computer Engineering)**  
+Vivekanand Education Society's Institute of Technology (VESIT), Mumbai  
+**CGPA:** 8.6 / 10 (Upto Semester 6)  
+📅 Expected Graduation: May 2026  
 
 ---
 
-## 🚀 Projects
+## 💼 Experience  
 
-### [Crisis Call](https://github.com/MADEYE42/multi-role-auth-app) — React Native, Firebase  
-Multi-role emergency app for users, hospitals, and mechanics.  
-- Real-time sync and location tracking  
-- Dashboards using React Navigation and expo-location
+- **Software Development Intern** – *Essel Fabricators Pvt. Ltd.* (Nov 2024 – Dec 2024)  
+  - Integrated Google OCR for digitizing handwritten QC notes.  
+  - Built admin dashboard with search, filter, and export.  
+  - Improved inventory tracking & data reliability.  
 
-### [Facial Police](https://github.com/Ha4sh-447/ethos-hackathon) — OpenCV, GAN, Flask  
-Real-time face detection from over 100 video streams.  
-- Used MTCNN and GAN-based 3D face reconstruction  
-- Web interface for live demo and testing
+- **Project Intern** – *Larsen & Toubro Limited* (Jun 2025 – Jul 2025)  
+  - Automated tag detection & processing from PDFs using Python.  
+  - Reduced mismatches via optimized scripts.  
 
-### [Disaster Management System](https://github.com/MADEYE42/disaster-management) — Next.js, Node.js, Generative AI  
-AI-powered emergency support with Gemini 1.5 API and ML models.  
-- Crisis tracking and chatbot integration  
-- Role-based dashboards with polling and safety protocols
-
----
-
-## 🏆 Achievements
-
-- **Winner**, Ethos Hackathon 2024 (IIT Guwahati)  
-- **Top 50**, IIIT Sricity International Healthcare Hackathon (1000+ participants)
+- **Research Intern** – *VESIT* (Jun 2025 – Jul 2025)  
+  - Built video-based anomaly detection pipeline.  
+  - Benchmarked deep learning models (CNN+LSTM, I3D, YOLOv8+ResNet).  
+  - Improved accuracy with spatial-temporal feature modeling.  
 
 ---
 
-## 📌 Leadership
+## 🛠️ Technical Skills  
 
-- **Chief Executive Officer**, ISTE VESIT (June 2025 – Present)  
-- **Executive Secretary**, ISTE VESIT (June 2024 – May 2025)
+- **Languages:** Python, C, C++, Java, JavaScript, TypeScript, SQL, HTML/CSS  
+- **Frameworks & Libraries:** React.js, Node.js, Express, Flask, TensorFlow, Keras, Scikit-learn, OpenCV  
+- **Databases & Tools:** MongoDB, MySQL, AWS, Docker, Git, GitHub  
 
 ---
 
+## 🚀 Projects  
+
+- **[Crisis Call](https://github.com/MADEYE42/multi-role-auth-app)** *(React Native, Expo, Firebase)*  
+  - Multi-role emergency app with live tracking & real-time sync.  
+  - Integrated location-based services and dashboards.  
+
+- **[Disaster Management System](https://github.com/MADEYE42/disaster-management)** *(Next.js, TypeScript, Node.js)*  
+  - AI-powered emergency support with Gemini 1.5 API & ML models.  
+  - Dual-role dashboards with chatbot & safety protocols.  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 Winner – **Ethos Hackathon 2024, IIT Guwahati**  
+- 🌍 Top 50 – **IIIT Sricity International Healthcare Hackathon** (1000+ participants)  
+
+---
+
+## 🤝 Leadership  
+
+- **Chief Executive Officer** – ISTE VESIT (2025 – Present)  
+- **Executive Secretary** – ISTE VESIT (2024 – 2025)  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MADEYE42&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MADEYE42&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Currently Exploring  
+- AI for healthcare & anomaly detection  
+- Scalable full-stack apps with Next.js & React Native  
+- Research in Deep Learning & Video-based ML  
+
+---
+
+⭐️ From [MADEYE42](https://github.com/MADEYE42)
