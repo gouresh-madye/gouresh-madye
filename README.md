@@ -69,11 +69,20 @@ End-to-end OCR-to-LLM healthcare pipeline for prescription processing
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MADEYE42&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=MADEYE42&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADEYE42&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MADEYE42&layout=compact&theme=radical&hide_border=true)
+</div>
+
+<div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MADEYE42&theme=radical&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=MADEYE42&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MADEYE42&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
   
 </div>
 
