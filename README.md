@@ -69,19 +69,6 @@ End-to-end OCR-to-LLM healthcare pipeline for prescription processing
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gouresh-madye&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouresh-madye&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=gouresh-madye&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouresh-madye&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
   
 </div>
