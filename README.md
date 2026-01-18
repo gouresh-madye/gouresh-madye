@@ -3,7 +3,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouresh-madye)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MADEYE42)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gouresh-madye)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmadye13@gmail.com)
   
 </div>
@@ -69,20 +69,20 @@ End-to-end OCR-to-LLM healthcare pipeline for prescription processing
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MADEYE42&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADEYE42&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gouresh-madye&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouresh-madye&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=MADEYE42&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gouresh-madye&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MADEYE42&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouresh-madye&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
   
 </div>
 
@@ -113,7 +113,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=MADEYE42&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=gouresh-madye&color=blueviolet&style=flat-square)
   
   **"Building intelligent systems that bridge the gap between data and decisions"**
   
