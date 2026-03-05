@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Gouresh Madye
+# Gouresh Madye
 
-### Software Engineer · Full-Stack Developer · ML Enthusiast
+### Software Engineer · Full-Stack Developer · Machine Learning
 
 <p>
   <a href="https://linkedin.com/in/gouresh-madye" target="_blank">
@@ -22,19 +22,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **Computer Engineering undergraduate** at Vivekanand Education Society's Institute of Technology, Mumbai (Expected June 2026), with hands-on experience in **full-stack development** and **machine learning** across manufacturing and infrastructure sectors.
+Computer Engineering undergraduate at Vivekanand Education Society's Institute of Technology, Mumbai (Expected June 2026), with hands-on experience in full-stack development and machine learning across manufacturing and infrastructure sectors.
 
-- 🏗️ Built production-ready quality management systems and automated ETL pipelines
-- 🤖 Deployed computer vision models achieving **93.87% accuracy** with deep learning architectures
-- ⚡ Passionate about building scalable, efficient systems that solve real-world problems
-- 🌱 Currently exploring **edge AI deployment**, **NLP pipelines**, and **cloud-native architectures**
-- 📍 Based in **Mumbai, India**
+- Built production-ready quality management systems and automated ETL pipelines at scale
+- Deployed computer vision models achieving 93.87% accuracy using deep learning architectures
+- Experienced in edge AI deployment, NLP pipelines, and cloud-native architectures
+- Based in Mumbai, India
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,12 +66,12 @@ I'm a **Computer Engineering undergraduate** at Vivekanand Education Society's I
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ML / AI
+### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### Cloud & DevOps
@@ -83,64 +82,65 @@ I'm a **Computer Engineering undergraduate** at Vivekanand Education Society's I
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧳 TripBuddy — AI Travel Planning App
-> A cross-platform mobile application for collaborative, AI-powered travel planning
+### TripBuddy — AI-Powered Travel Planning App
 
-**Tech Stack:**
+Cross-platform mobile application for collaborative, AI-driven travel planning with real-time synchronization.
+
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-- 🤝 Real-time multi-user synchronization using **atomic operations**, supporting **50+ concurrent collaborators**
-- 🧠 Integrated **Google Gemini AI** for personalized itineraries and budget optimization
-- 🗺️ Offline-first architecture with **RBAC** and **Google Maps SDK** integration
-- 🔐 Secure auth via **Firebase Auth** + **Cloud Firestore**
+- Real-time multi-user synchronization using atomic operations, supporting 50+ concurrent collaborators
+- Google Gemini AI integration for personalized itineraries and budget optimization
+- Offline-first architecture with role-based access control and Google Maps SDK
+- Secure authentication via Firebase Auth and Cloud Firestore
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gouresh-madye)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gouresh-madye)
 
 ---
 
-### 💊 Medical Prescription Intelligence System
-> OCR-to-LLM healthcare pipeline for prescription parsing and drug-interaction detection
+### Medical Prescription Intelligence System
 
-**Tech Stack:**
+OCR-to-LLM healthcare pipeline for automated prescription parsing and drug-interaction detection.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![GCP](https://img.shields.io/badge/Cloud_Vision-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Cloud Vision](https://img.shields.io/badge/Cloud_Vision-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- 📄 Achieved **98% OCR accuracy** using **Google Cloud Vision** + **Qwen 2.5 LLM** + **BioBERT**
-- 💊 Drug-interaction validation engine covering **10,000+ combinations** at **95% precision**
-- ⏱️ Reduced pharmacist verification time by **70%**
-- 🐳 Dockerized Flask REST API with **90% code coverage**
+- 98% OCR accuracy using Google Cloud Vision, Qwen 2.5 LLM, and BioBERT for medical entity extraction
+- Drug-interaction validation engine covering 10,000+ combinations at 95% precision
+- Reduced pharmacist verification time by 70%
+- Dockerized Flask REST API with 90% code coverage
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gouresh-madye)
-
----
-
-## 💼 Experience & Education
-
-### 🏢 Professional Experience
-
-| Role | Company | Duration | Highlights |
-|------|----------|----------|------------|
-| 🔧 **SWE Intern – Data Automation** | Larsen & Toubro Limited | Jun–Jul 2025 | Built ETL pipeline for 500+ PDFs; improved parsing accuracy from 75% → 92%; NLP system reduced manual work by 60% |
-| 🤖 **ML Research Intern** | VESIT | May–Jul 2025 | Curated 5,000+ sample CV dataset; implemented CNN+LSTM, I3D, YOLOv8+ResNet-50; achieved 93.87% accuracy; reduced latency 40% via INT8 quantization |
-| 💻 **Full-Stack SWE Intern** | Essel Fabricators Pvt. Ltd. | Nov–Dec 2024 | Built QMS web app (Next.js 14 + PostgreSQL) serving 15+ users; OCR automation saving 10+ hrs/week; sub-100ms query responses |
-
-### 🎓 Education
-
-**🏫 Vivekanand Education Society's Institute of Technology** — Mumbai, India
-> Bachelor of Engineering in Computer Engineering | **CGPA: 8.7 / 10.0** | Expected June 2026
-
-*Relevant Coursework: Data Structures & Algorithms · Operating Systems · DBMS · OOP · Software Engineering*
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gouresh-madye)
 
 ---
 
-## 📊 GitHub Stats
+## Experience
+
+| Role | Organization | Period | Key Impact |
+|------|-------------|--------|------------|
+| Software Engineering Intern — Data Automation | Larsen & Toubro Limited | Jun – Jul 2025 | ETL pipeline for 500+ PDFs; parsing accuracy from 75% to 92%; NLP system reduced manual verification by 60% |
+| Machine Learning Research Intern | VESIT | May – Jul 2025 | 5,000+ sample CV dataset; CNN+LSTM, I3D, YOLOv8+ResNet-50; 93.87% accuracy; 40% latency reduction via INT8 quantization |
+| Full-Stack Software Development Intern | Essel Fabricators Pvt. Ltd. | Nov – Dec 2024 | QMS web app serving 15+ users; OCR automation saving 10+ hrs/week; sub-100ms SQL query response times |
+
+---
+
+## Education
+
+**Vivekanand Education Society's Institute of Technology** — Mumbai, India
+
+Bachelor of Engineering in Computer Engineering | CGPA: 8.7 / 10.0 | Expected June 2026
+
+*Relevant Coursework: Data Structures & Algorithms · Operating Systems · Database Management Systems · Object-Oriented Programming · Software Engineering*
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -157,24 +157,11 @@ I'm a **Computer Engineering undergraduate** at Vivekanand Education Society's I
 
 ---
 
-## 📬 Get in Touch
+## Contact
 
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 📧 **Email** | [gmadye13@gmail.com](mailto:gmadye13@gmail.com) |
-| 💼 **LinkedIn** | [gouresh-madye](https://linkedin.com/in/gouresh-madye) |
-| 🐙 **GitHub** | [gouresh-madye](https://github.com/gouresh-madye) |
-
-</div>
-
----
-
-<div align="center">
-
-*"Building systems that bridge the gap between intelligence and infrastructure."*
-
-⭐ **Feel free to explore my repositories and drop a star if you find something useful!**
-
-</div>
+| Platform | Details |
+|----------|---------|
+| Email | [gmadye13@gmail.com](mailto:gmadye13@gmail.com) |
+| LinkedIn | [gouresh-madye](https://linkedin.com/in/gouresh-madye) |
+| GitHub | [gouresh-madye](https://github.com/gouresh-madye) |
+| Phone | +91-9987387639 |
