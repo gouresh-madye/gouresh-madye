@@ -174,11 +174,7 @@ A production-grade business workflow solution designed to streamline quality man
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gouresh-madye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouresh-madye&layout=compact&theme=tokyonight&hide_border=true" />
-
+  
 <img height="180em" src="https://streak-stats.demolab.com?user=gouresh-madye&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouresh-madye&theme=tokyonight" />
